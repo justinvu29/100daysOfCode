@@ -26,4 +26,4 @@ const buildTower = n => {
 
 console.log(buildTower(4))
 console.log(buildTower(7))
-console.log(buildTower(10))
+console.log(buildTower(15))

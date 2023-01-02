@@ -4,4 +4,4 @@ function palindrome(str) {
     const rev = lowRegSgtr.split('').reverse().join('')
     return low === rev
   }
-  
+
