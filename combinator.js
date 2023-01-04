@@ -17,4 +17,4 @@ const combinator = (arr1, arr2) => {
     return combinedArr
 }
 
-console.log(combinator(arrFirst, arrLast))
+console.log(combinator(arrFirst, arrLast))()
