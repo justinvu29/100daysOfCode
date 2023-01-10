@@ -20,4 +20,4 @@ function vowels(str) {
     }
     return vowels
   }
-  
+  console.log(vowels(apple))
