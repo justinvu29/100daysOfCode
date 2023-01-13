@@ -13,3 +13,5 @@ function translate(str) {
     }
     return strArr.join('') + 'ay'
   }
+
+  console.log(translate('Justin'))
