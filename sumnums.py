@@ -52,6 +52,6 @@ def reverseString(s: List[str]) -> None:
         left += 1
         right -= 1
 
-s = list("Justin")
+s = list("TestingOneTwo")
 reverseString(s)
 print("".join(s)) 
